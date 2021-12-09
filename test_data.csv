@@ -1,0 +1,4 @@
+datetime_beginning_utc,datetime_beginning_ept,nerc_region,mkt_region,zone,load_area,mw,is_verified
+1/1/2018 5:00:00 AM,1/1/2018 12:00:00 AM,RFC,MIDATL,AE,AECO,1261.317,True
+1/1/2018 5:00:00 AM,1/1/2018 12:00:00 AM,RFC,WEST,AEP,AEPAPT,6787.226,True
+1/1/2018 5:00:00 AM,1/1/2018 12:00:00 AM,RFC,WEST,AEP,AEPIMP,3158.098,True
